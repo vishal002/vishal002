@@ -30,12 +30,12 @@ MOST RECENT EXPERIENCE
 
 Client - <b>Schlumberger</b> <br/>
 
-DELFI - Tag Mapping UI Portal (E&P software) enables the oil & gas companies to better analyse the geological data for more accurate modelling and production planning.<br/>
-<b>Full frontend technical ownership of the projects,</b> hands-on coding & people management responsibilities for 4 engineers<br/>
-Collaboration with stakeholders across business, product & engineering on roadmap, execution & prioritisation<br/>
-Presented findings in a clear and concise manner to key decision-makers<br/>
-<b>Reduced overall performance of portal and analytics of the platform by 70%,</b> and reduced the load time to 1/3rd by re-designing the response store and querying system<br/>
-Migration of Existing Angular 9 Application to Angular 12<br/>
+- DELFI - Tag Mapping UI Portal (E&P software) enables the oil & gas companies to better analyse the geological data for more accurate modelling and production planning.
+- <b>Full frontend technical ownership of the projects,</b> hands-on coding & people management responsibilities for 4 engineers
+- Collaboration with stakeholders across business, product & engineering on roadmap, execution & prioritisation
+- Presented findings in a clear and concise manner to key decision-makers
+- <b>Reduced overall performance of portal and analytics of the platform by 70%,</b> and reduced the load time to 1/3rd by re-designing the response store and querying system
+- Migration of Existing Angular 9 Application to Angular 12
 
 <br/>
 
