@@ -27,7 +27,9 @@ TECHNICAL SKILLS
 MOST RECENT EXPERIENCE 
 
 <b>iLink Systems  — Senior Technical Specialist(UI)</b>         OCT 2020 - PRESENT <br/>
+
 Client - <b>Schlumberger</b> <br/>
+
 DELFI - Tag Mapping UI Portal (E&P software) enables the oil & gas companies to better analyse the geological data for more accurate modelling and production planning.<br/>
 <b>Full frontend technical ownership of the projects,</b> hands-on coding & people management responsibilities for 4 engineers<br/>
 Collaboration with stakeholders across business, product & engineering on roadmap, execution & prioritisation<br/>
