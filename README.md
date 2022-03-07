@@ -41,9 +41,9 @@ Client - <b>Schlumberger</b> <br/>
 
 STRENGTHS
 
-<b>Eager to learn new skills.</b> Seeking new ways to grow & expand my skill set<br/>
-Not afraid of failure. <b>Learn from my mistakes</b> <br/>
-Time Management. <b>Always plan my week & distribute the workload</b> to meet the deadlines<br/>
+- <b>Eager to learn new skills.</b> Seeking new ways to grow & expand my skill set
+- Not afraid of failure. <b>Learn from my mistakes</b>
+- Time Management. <b>Always plan my week & distribute the workload</b> to meet the deadlines
 
 <br/>
 
