@@ -5,7 +5,7 @@
 - 📫 How to reach me [kumarvishal.002@gmail.com](mailto:kumarvishal.002@gmail.com) 
 
 
-I am an innovative <b>Senior Technical Specialist</b> with 8+ years of experience developing secure, reliable, highly scalable and user-friendly web & mobile applications.
+I am an innovative <b>Senior Technical Specialist</b> with 9+ years of experience developing secure, reliable, highly scalable and user-friendly web & mobile applications.
 Passionate about creating awesome software and learning new technologies to <b>solve challenging business problems</b>
 
 <br/>
