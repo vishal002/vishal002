@@ -13,7 +13,7 @@ Passionate about creating awesome software and learning new technologies to <b>s
 TECHNICAL SKILLS
 
 - <b>Data Structures, Algorithms & Problem Solving</b>, Research, Follows Secure Coding OWASP with Best Practises & Cross Browser Compatibility
-- UI: Vanilla JavaScript, Angular Js, <b>Angular 8+</b>, Typescript, RxJs, <b>React</b>
+- UI: Vanilla JavaScript, Angular Js, <b>Angular 2+</b>, Typescript, RxJs, <b>React</b>
 - Markups: Html5, CSS3, SCSS, Bootstrap, Flexbox, Angular Material 
 - Unit Test Case: <b>Jasmine & Karma</b>
 - Webpack (module bundler), npm (package manager), cordova (hybrid app) 
